@@ -1,6 +1,5 @@
 const express = require('express');
 
-const upload = require('../utils/upload');
 const auth = require('../middleware/auth');
 
 //USER CONTROLLERS
