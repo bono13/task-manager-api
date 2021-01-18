@@ -23,7 +23,7 @@
 
 ## Development
 
-### Backend Javascrip Framework
+### Backend Javascript Framework
 
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 
